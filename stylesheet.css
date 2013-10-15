@@ -2,6 +2,7 @@ h1 {
 	font-size:14px;
 	font-family: Arial, sans-serif;
 	font-color: #666666;
+	margin: auto;
 }
 body {
 	margin: auto;
@@ -9,4 +10,17 @@ body {
 	padding: 15px;
 	border: 1px solid #cccccc;
 	border-radius: 5px;
+}
+img {
+	margin:auto;
+}
+p{
+	font-size: 12px;
+	font-family:Arial, sans-serif;
+	color:#666666;
+}
+a{
+	font-size: 12px;
+	font-family:Arial, sans-serif;
+	color:#666666;
 }
