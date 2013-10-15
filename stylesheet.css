@@ -3,6 +3,7 @@ h1 {
 	font-family: Arial, sans-serif;
 	font-color: #666666;
 	margin: auto;
+	display:block;
 }
 body {
 	margin: auto;
