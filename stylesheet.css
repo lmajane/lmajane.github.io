@@ -14,15 +14,16 @@ body {
 	border-radius: 5px;
 }
 img {
-	margin:auto;
+	float:right;
 	padding-top: 10px;
 	width:300px;
+
 }
 p{
 	font-size: 12px;
 	font-family:Arial, sans-serif;
 	color:#666666;
-	display:inline;
+	display:inline-block;
 }
 a{
 	font-size: 12px;
