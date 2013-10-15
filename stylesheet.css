@@ -1,5 +1,5 @@
 h1 {
-	font-size:14px;
+	font-size:12px;
 	font-family: 'Gill Sans', Arial, sans-serif;
 	font-color: #666666;
 	margin: auto;
@@ -16,7 +16,7 @@ body {
 img {
 	float:right;
 	padding-left: 15px;
-	padding-top:-10px;
+	padding-top:-20px;
 	width:400px;
 
 }
