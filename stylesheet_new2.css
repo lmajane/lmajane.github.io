@@ -1,18 +1,20 @@
 h1 {
-	font-size:14px;
-	font-family: 'Rokkitt', 'Gill Sans', Arial, sans-serif;
+	font-size:24px;
+	font-family: 'Flamenco', 'Gill Sans', Arial, sans-serif;
 	color: #006699;
 	margin: auto;
 	display:block;
 }
 body {
-	margin: auto;
+	
 	margin-top: 40px;
 	width: 700px;
 	padding: 15px;
-	border: 1px solid #cccccc;
-	border-radius: 5px;
 	background: white;
+	position:absolute;
+	left:0px;
+	opacity:0.9;
+	filter:alpha(opacity=90); /* For IE8 and earlier */
 }
 img {
 	float:right;
@@ -33,5 +35,9 @@ a{
 	color:#666666;
 }
 html {
-	background-color:#F0F0F0;
+	  background: url(bostonBW.jpg) no-repeat center center fixed; 
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
 }
